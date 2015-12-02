@@ -19,7 +19,7 @@ public class Alumno {
 	private int edad;
 	private char sexo; //'H': hombre. 'M': mujer. 'I': Indefinido.
 
-	//constructores
+	//constructores HECHO
 	/**
 	 * Un <code>Alumno</code> recién instanciado tendrá los siguientes valores:
 	 * <ul>
